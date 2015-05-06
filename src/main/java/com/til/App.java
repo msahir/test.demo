@@ -29,6 +29,7 @@ public class App
 			ex.printStackTrace();
 			//logger.error(ex.getStackTrace() + ex.getMessage());
 		}
+	//Jst cking
 	}
 
 	public static String minify(String content) {
